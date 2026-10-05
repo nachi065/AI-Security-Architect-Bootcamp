@@ -1,0 +1,29 @@
+/* Study-site additions */
+.study-part { margin-top: -0.6rem; color: var(--md-default-fg-color--light); font-size: 0.8rem; }
+
+/* Completion mark in the sidebar */
+.md-nav__link.is-done::after { content: " \2713"; color: #2e9e5b; font-weight: 700; }
+
+/* Tools at the bottom of week / gate pages */
+.study-tools { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.study-tools button, .study-progress button {
+  font: inherit; cursor: pointer; padding: 0.45rem 0.9rem; border-radius: 0.3rem;
+  border: 1px solid var(--md-primary-fg-color); background: transparent; color: var(--md-primary-fg-color);
+}
+.study-tools button.is-done { background: #2e9e5b; border-color: #2e9e5b; color: #fff; }
+.study-tools label { display: block; margin: 1.2rem 0 0.3rem; font-weight: 600; }
+.study-tools textarea {
+  width: 100%; min-height: 9rem; padding: 0.6rem; font: inherit; box-sizing: border-box;
+  color: var(--md-default-fg-color); background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lighter); border-radius: 0.3rem;
+}
+.study-tools .hint { color: var(--md-default-fg-color--light); font-size: 0.75rem; margin-top: 0.3rem; }
+
+/* Progress panel on the home page */
+.study-progress { margin: 1.5rem 0; padding: 1rem 1.2rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 0.4rem; }
+.study-progress h2 { margin-top: 0; font-size: 1rem; }
+.study-progress .bar { height: 0.55rem; background: var(--md-default-fg-color--lightest); border-radius: 0.3rem; overflow: hidden; margin: 0.25rem 0 0.8rem; }
+.study-progress .bar > span { display: block; height: 100%; background: #2e9e5b; }
+.study-progress .row { font-size: 0.8rem; display: flex; justify-content: space-between; }
+.study-progress .actions { margin-top: 0.8rem; display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
+.study-progress a.continue { font-weight: 600; }

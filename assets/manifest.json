@@ -1,0 +1,207 @@
+[
+  {
+    "key": "volume-1/week-01-architecture-networking-and-the-llm-request-flow/",
+    "title": "Week 1: Architecture, networking and the LLM request flow",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-02-linux-for-security-engineers/",
+    "title": "Week 2: Linux for security engineers",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-03-git-github-and-secret-hygiene/",
+    "title": "Week 3: Git, GitHub and secret hygiene",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-04-python-core-and-your-first-security-tool/",
+    "title": "Week 4: Python core and your first security tool",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-05-python-for-apis-and-automation/",
+    "title": "Week 5: Python for APIs and automation",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-06-api-and-web-security/",
+    "title": "Week 6: API and web security",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-07-containers-and-the-software-supply-chain/",
+    "title": "Week 7: Containers and the software supply chain",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-08-kubernetes-essentials-and-security/",
+    "title": "Week 8: Kubernetes essentials and security",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-09-cloud-foundations-for-ai/",
+    "title": "Week 9: Cloud foundations for AI",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-10-machine-learning-foundations-and-the-attack-surface/",
+    "title": "Week 10: Machine learning foundations and the attack surface",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-11-llm-foundations-and-a-safe-local-client/",
+    "title": "Week 11: LLM foundations and a safe local client",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-12-embeddings-vector-stores-and-rag/",
+    "title": "Week 12: Embeddings, vector stores and RAG",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/week-13-agents-mcp-and-the-foundations-gate/",
+    "title": "Week 13: Agents, MCP and the Foundations Gate",
+    "volume": 1
+  },
+  {
+    "key": "volume-1/gate/",
+    "title": "Volume 1 gate",
+    "volume": 1
+  },
+  {
+    "key": "volume-2/week-01-ai-threat-landscape-scoping-and-the-red-team-lab/",
+    "title": "Week 1: AI threat landscape, scoping and the red-team lab",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/week-02-prompt-injection-and-jailbreaking/",
+    "title": "Week 2: Prompt injection and jailbreaking",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/week-03-automated-red-teaming-and-evaluation-in-ci/",
+    "title": "Week 3: Automated red teaming and evaluation in CI",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/week-04-data-and-model-attacks/",
+    "title": "Week 4: Data and model attacks",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/week-05-rag-and-vector-store-attacks/",
+    "title": "Week 5: RAG and vector-store attacks",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/week-06-agentic-and-mcp-attacks/",
+    "title": "Week 6: Agentic and MCP attacks",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/week-07-ai-supply-chain-and-infrastructure/",
+    "title": "Week 7: AI supply chain and infrastructure",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/week-08-reporting-and-capstone-engagement/",
+    "title": "Week 8: Reporting and capstone engagement",
+    "volume": 2
+  },
+  {
+    "key": "volume-2/gate/",
+    "title": "Volume 2 gate",
+    "volume": 2
+  },
+  {
+    "key": "volume-3/week-01-governance-fundamentals-inventory-and-risk-tiering/",
+    "title": "Week 1: Governance fundamentals, inventory and risk tiering",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/week-02-global-regulation-and-the-eu-ai-act/",
+    "title": "Week 2: Global regulation and the EU AI Act",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/week-03-frameworks-and-standards/",
+    "title": "Week 3: Frameworks and standards",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/week-04-regional-regulation-gcc-and-india/",
+    "title": "Week 4: Regional regulation: GCC and India",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/week-05-policy-stack-control-objectives-and-the-risk-register/",
+    "title": "Week 5: Policy stack, control objectives and the risk register",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/week-06-third-party-and-vendor-ai-risk/",
+    "title": "Week 6: Third-party and vendor AI risk",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/week-07-audit-assurance-and-monitoring/",
+    "title": "Week 7: Audit, assurance and monitoring",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/week-08-capstone-a-governance-programme-for-a-regulated-enterprise/",
+    "title": "Week 8: Capstone: a governance programme for a regulated enterprise",
+    "volume": 3
+  },
+  {
+    "key": "volume-3/gate/",
+    "title": "Volume 3 gate",
+    "volume": 3
+  },
+  {
+    "key": "volume-4/week-01-secure-ai-reference-architectures-and-threat-modelling/",
+    "title": "Week 1: Secure AI reference architectures and threat modelling",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/week-02-securing-data-and-rag/",
+    "title": "Week 2: Securing data and RAG",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/week-03-securing-models-and-the-ai-supply-chain/",
+    "title": "Week 3: Securing models and the AI supply chain",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/week-04-guardrails-runtime-protection-and-vendor-evaluation/",
+    "title": "Week 4: Guardrails, runtime protection and vendor evaluation",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/week-05-agent-and-mcp-security-architecture/",
+    "title": "Week 5: Agent and MCP security architecture",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/week-06-detection-monitoring-and-incident-response-for-ai/",
+    "title": "Week 6: Detection, monitoring and incident response for AI",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/week-07-enterprise-architecture-and-the-business-case/",
+    "title": "Week 7: Enterprise architecture and the business case",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/week-08-capstone-and-design-authority-defence/",
+    "title": "Week 8: Capstone and design-authority defence",
+    "volume": 4
+  },
+  {
+    "key": "volume-4/gate/",
+    "title": "Volume 4 gate",
+    "volume": 4
+  }
+]

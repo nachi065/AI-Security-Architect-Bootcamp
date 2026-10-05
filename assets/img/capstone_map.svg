@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="g-svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="Contents of the capstone package"><title>Contents of the capstone package</title><style>
+.g-svg{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.g-text{fill:#1f2933;font-size:13px}
+.g-b{font-weight:700}
+.g-s{font-size:11px}
+.g-xs{font-size:10px}
+.g-m{fill:#5b6b7b}
+.g-tbad{fill:#b02a2a}
+.g-tgood{fill:#1b7a44}
+.g-twarn{fill:#8a6400}
+.g-tprim{fill:#2b3990}
+.g-ton{fill:#ffffff}
+.g-r{stroke-width:1.3}
+.g-r-box{fill:#f3f5f9;stroke:#9aa7b8}
+.g-r-primary{fill:#e4e9ff;stroke:#4051b5}
+.g-r-good{fill:#e3f6ea;stroke:#2e9e5b}
+.g-r-warn{fill:#fff3d6;stroke:#d9a000}
+.g-r-bad{fill:#fde7e7;stroke:#d64545}
+.g-r-zone{fill:none;stroke:#5b6b7b;stroke-dasharray:6 4}
+.g-r-zonebad{fill:none;stroke:#d64545;stroke-dasharray:6 4}
+.g-r-lv1{fill:#eef0fb;stroke:none}
+.g-r-lv2{fill:#cdd3f4;stroke:none}
+.g-r-lv3{fill:#9aa6e8;stroke:none}
+.g-r-lv4{fill:#5c6dd0;stroke:none}
+.g-r-lv5{fill:#2f3fa6;stroke:none}
+.g-p{stroke:#5b6b7b;stroke-width:1.6;fill:none}
+.g-pbad{stroke:#d64545;stroke-width:1.6;fill:none}
+.g-pgood{stroke:#2e9e5b;stroke-width:1.6;fill:none}
+.g-pwarn{stroke:#d9a000;stroke-width:1.6;fill:none}
+.g-dash{stroke-dasharray:5 4}
+.g-ah{fill:#5b6b7b}
+.g-ah-bad{fill:#d64545}
+.g-ah-good{fill:#2e9e5b}
+.g-today{stroke:#d64545;stroke-width:1.4;stroke-dasharray:3 3}
+</style><defs><marker id="capstone-map-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="g-ah" d="M0,0 L10,5 L0,10 z"/></marker><marker id="capstone-map-ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="g-ah-bad" d="M0,0 L10,5 L0,10 z"/></marker><marker id="capstone-map-ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="g-ah-good" d="M0,0 L10,5 L0,10 z"/></marker></defs><rect class="g-r g-r-primary" x="200.0" y="12.0" width="400.0" height="44.0" rx="8"/><text class="g-text g-b" x="400.0" y="30.7" text-anchor="middle" style="font-size:12px">Secure Agentic AI Platform package</text><text class="g-text" x="400.0" y="45.7" text-anchor="middle" style="font-size:12px">defended before a design-authority panel</text><rect class="g-r g-r-box" x="20.0" y="84.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="100.0" y="114.5" text-anchor="middle" style="font-size:12px">1. Executive summary</text><text class="g-text" x="100.0" y="130.5" text-anchor="middle" style="font-size:12px">one page,</text><text class="g-text" x="100.0" y="146.5" text-anchor="middle" style="font-size:12px">recommendation</text><rect class="g-r g-r-box" x="220.0" y="84.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="300.0" y="122.5" text-anchor="middle" style="font-size:12px">2. Architecture</text><text class="g-text" x="300.0" y="138.5" text-anchor="middle" style="font-size:12px">diagrams, flows, ADRs</text><rect class="g-r g-r-box" x="420.0" y="84.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="500.0" y="114.5" text-anchor="middle" style="font-size:12px">3. Threat model</text><text class="g-text" x="500.0" y="130.5" text-anchor="middle" style="font-size:12px">every threat traced</text><text class="g-text" x="500.0" y="146.5" text-anchor="middle" style="font-size:12px">to a control</text><rect class="g-r g-r-box" x="620.0" y="84.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="700.0" y="114.5" text-anchor="middle" style="font-size:12px">4. Security evidence</text><text class="g-text" x="700.0" y="130.5" text-anchor="middle" style="font-size:12px">before and after tests,</text><text class="g-text" x="700.0" y="146.5" text-anchor="middle" style="font-size:12px">detections</text><rect class="g-r g-r-box" x="20.0" y="190.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="100.0" y="220.5" text-anchor="middle" style="font-size:12px">5. Governance map</text><text class="g-text" x="100.0" y="236.5" text-anchor="middle" style="font-size:12px">controls to obligations,</text><text class="g-text" x="100.0" y="252.5" text-anchor="middle" style="font-size:12px">dates, confidence</text><rect class="g-r g-r-box" x="220.0" y="190.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="300.0" y="220.5" text-anchor="middle" style="font-size:12px">6. Operations</text><text class="g-text" x="300.0" y="236.5" text-anchor="middle" style="font-size:12px">monitoring, playbooks,</text><text class="g-text" x="300.0" y="252.5" text-anchor="middle" style="font-size:12px">model intake</text><rect class="g-r g-r-box" x="420.0" y="190.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="500.0" y="228.5" text-anchor="middle" style="font-size:12px">7. Business case</text><text class="g-text" x="500.0" y="244.5" text-anchor="middle" style="font-size:12px">risk model, roadmap</text><rect class="g-r g-r-box" x="620.0" y="190.0" width="160.0" height="84.0" rx="8"/><text class="g-text g-b" x="700.0" y="220.5" text-anchor="middle" style="font-size:12px">8. Residual risk</text><text class="g-text" x="700.0" y="236.5" text-anchor="middle" style="font-size:12px">what remains, owner,</text><text class="g-text" x="700.0" y="252.5" text-anchor="middle" style="font-size:12px">review date</text><path class="g-p" d="M400.0 56.0 L400.0 70.0"/><path class="g-p" d="M100.0 70.0 L700.0 70.0"/><path class="g-p" d="M100.0 70.0 L100.0 82.0" marker-end="url(#capstone-map-a)"/><path class="g-p" d="M300.0 70.0 L300.0 82.0" marker-end="url(#capstone-map-a)"/><path class="g-p" d="M500.0 70.0 L500.0 82.0" marker-end="url(#capstone-map-a)"/><path class="g-p" d="M700.0 70.0 L700.0 82.0" marker-end="url(#capstone-map-a)"/></svg>

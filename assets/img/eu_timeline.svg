@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="g-svg" viewBox="0 0 800 278" width="800" height="278" role="img" aria-label="EU AI Act key dates"><title>EU AI Act key dates</title><style>
+.g-svg{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.g-text{fill:#1f2933;font-size:13px}
+.g-b{font-weight:700}
+.g-s{font-size:11px}
+.g-xs{font-size:10px}
+.g-m{fill:#5b6b7b}
+.g-tbad{fill:#b02a2a}
+.g-tgood{fill:#1b7a44}
+.g-twarn{fill:#8a6400}
+.g-tprim{fill:#2b3990}
+.g-ton{fill:#ffffff}
+.g-r{stroke-width:1.3}
+.g-r-box{fill:#f3f5f9;stroke:#9aa7b8}
+.g-r-primary{fill:#e4e9ff;stroke:#4051b5}
+.g-r-good{fill:#e3f6ea;stroke:#2e9e5b}
+.g-r-warn{fill:#fff3d6;stroke:#d9a000}
+.g-r-bad{fill:#fde7e7;stroke:#d64545}
+.g-r-zone{fill:none;stroke:#5b6b7b;stroke-dasharray:6 4}
+.g-r-zonebad{fill:none;stroke:#d64545;stroke-dasharray:6 4}
+.g-r-lv1{fill:#eef0fb;stroke:none}
+.g-r-lv2{fill:#cdd3f4;stroke:none}
+.g-r-lv3{fill:#9aa6e8;stroke:none}
+.g-r-lv4{fill:#5c6dd0;stroke:none}
+.g-r-lv5{fill:#2f3fa6;stroke:none}
+.g-p{stroke:#5b6b7b;stroke-width:1.6;fill:none}
+.g-pbad{stroke:#d64545;stroke-width:1.6;fill:none}
+.g-pgood{stroke:#2e9e5b;stroke-width:1.6;fill:none}
+.g-pwarn{stroke:#d9a000;stroke-width:1.6;fill:none}
+.g-dash{stroke-dasharray:5 4}
+.g-ah{fill:#5b6b7b}
+.g-ah-bad{fill:#d64545}
+.g-ah-good{fill:#2e9e5b}
+.g-today{stroke:#d64545;stroke-width:1.4;stroke-dasharray:3 3}
+</style><defs><marker id="eu-timeline-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="g-ah" d="M0,0 L10,5 L0,10 z"/></marker><marker id="eu-timeline-ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="g-ah-bad" d="M0,0 L10,5 L0,10 z"/></marker><marker id="eu-timeline-ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="g-ah-good" d="M0,0 L10,5 L0,10 z"/></marker></defs><path class="g-p" d="M30.0 140.0 L770.0 140.0"/><path class="g-p" d="M40.0 135.0 L40.0 145.0"/><text class="g-text g-s g-m" x="40.0" y="160.0" text-anchor="middle">2025</text><path class="g-p" d="M220.0 135.0 L220.0 145.0"/><text class="g-text g-s g-m" x="220.0" y="160.0" text-anchor="middle">2026</text><path class="g-p" d="M400.0 135.0 L400.0 145.0"/><text class="g-text g-s g-m" x="400.0" y="160.0" text-anchor="middle">2027</text><path class="g-p" d="M580.0 135.0 L580.0 145.0"/><text class="g-text g-s g-m" x="580.0" y="128.0" text-anchor="middle">2028</text><path class="g-p g-dash" d="M55.8 140.0 L55.8 104.0"/><circle class="g-r g-r-bad" cx="55.8" cy="140.0" r="6"/><text class="g-text g-b g-tbad" x="70.0" y="71.0" text-anchor="middle" style="font-size:12px">2 Feb 2025</text><text class="g-text g-s" x="70.0" y="85.0" text-anchor="middle">Prohibited practices</text><text class="g-text g-s" x="70.0" y="99.0" text-anchor="middle">and AI literacy</text><path class="g-p g-dash" d="M145.0 140.0 L145.0 176.0"/><circle class="g-r g-r-primary" cx="145.0" cy="140.0" r="6"/><text class="g-text g-b g-tprim" x="145.0" y="201.0" text-anchor="middle" style="font-size:12px">2 Aug 2025</text><text class="g-text g-s" x="145.0" y="215.0" text-anchor="middle">General-purpose AI</text><text class="g-text g-s" x="145.0" y="229.0" text-anchor="middle">model obligations</text><path class="g-p g-dash" d="M322.1 140.0 L322.1 104.0"/><circle class="g-r g-r-warn" cx="322.1" cy="140.0" r="6"/><text class="g-text g-b g-twarn" x="322.1" y="71.0" text-anchor="middle" style="font-size:12px">27 Jul 2026</text><text class="g-text g-s" x="322.1" y="85.0" text-anchor="middle">Digital Omnibus</text><text class="g-text g-s" x="322.1" y="99.0" text-anchor="middle">in force</text><path class="g-p g-dash" d="M325.0 140.0 L325.0 176.0"/><circle class="g-r g-r-primary" cx="325.0" cy="140.0" r="6"/><text class="g-text g-b g-tprim" x="325.0" y="201.0" text-anchor="middle" style="font-size:12px">2 Aug 2026</text><text class="g-text g-s" x="325.0" y="215.0" text-anchor="middle">Article 50</text><text class="g-text g-s" x="325.0" y="229.0" text-anchor="middle">transparency</text><path class="g-p g-dash" d="M385.2 140.0 L385.2 62.0"/><circle class="g-r g-r-warn" cx="385.2" cy="140.0" r="6"/><text class="g-text g-b g-twarn" x="385.2" y="29.0" text-anchor="middle" style="font-size:12px">2 Dec 2026*</text><text class="g-text g-s" x="385.2" y="43.0" text-anchor="middle">grace date for some</text><text class="g-text g-s" x="385.2" y="57.0" text-anchor="middle">duties (verify)</text><path class="g-p g-dash" d="M565.2 140.0 L565.2 176.0"/><circle class="g-r g-r-good" cx="565.2" cy="140.0" r="6"/><text class="g-text g-b g-tgood" x="565.2" y="201.0" text-anchor="middle" style="font-size:12px">2 Dec 2027</text><text class="g-text g-s" x="565.2" y="215.0" text-anchor="middle">Annex III high-risk</text><text class="g-text g-s" x="565.2" y="229.0" text-anchor="middle">(deferred)</text><path class="g-p g-dash" d="M685.5 140.0 L685.5 104.0"/><circle class="g-r g-r-good" cx="685.5" cy="140.0" r="6"/><text class="g-text g-b g-tgood" x="685.5" y="71.0" text-anchor="middle" style="font-size:12px">2 Aug 2028</text><text class="g-text g-s" x="685.5" y="85.0" text-anchor="middle">Annex I embedded</text><text class="g-text g-s" x="685.5" y="99.0" text-anchor="middle">products (deferred)</text><path class="g-today" d="M356.6 116.0 L356.6 164.0"/><text class="g-text g-b g-s g-tbad" x="356.6" y="178.0" text-anchor="middle">today</text><text class="g-text g-s g-m" x="40.0" y="268.0" text-anchor="start">* One source gave this date for some sub-obligations; check the Official Journal text.</text></svg>
