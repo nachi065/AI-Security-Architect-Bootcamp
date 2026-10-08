@@ -1,211 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/diagrams/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/diagrams/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/plan/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/plan/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/gate/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/gate/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/resources/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/resources/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-01-architecture-networking-and-the-llm-request-flow/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-01-architecture-networking-and-the-llm-request-flow/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-02-linux-for-security-engineers/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-02-linux-for-security-engineers/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-03-git-github-and-secret-hygiene/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-03-git-github-and-secret-hygiene/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-04-python-core-and-your-first-security-tool/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-04-python-core-and-your-first-security-tool/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-05-python-for-apis-and-automation/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-05-python-for-apis-and-automation/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-06-api-and-web-security/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-06-api-and-web-security/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-07-containers-and-the-software-supply-chain/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-07-containers-and-the-software-supply-chain/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-08-kubernetes-essentials-and-security/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-08-kubernetes-essentials-and-security/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-09-cloud-foundations-for-ai/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-09-cloud-foundations-for-ai/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-10-machine-learning-foundations-and-the-attack-surface/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-10-machine-learning-foundations-and-the-attack-surface/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-11-llm-foundations-and-a-safe-local-client/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-11-llm-foundations-and-a-safe-local-client/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-12-embeddings-vector-stores-and-rag/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-12-embeddings-vector-stores-and-rag/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-1/week-13-agents-mcp-and-the-foundations-gate/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-1/week-13-agents-mcp-and-the-foundations-gate/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/gate/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/gate/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/resources/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/resources/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-01-ai-threat-landscape-scoping-and-the-red-team-lab/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-01-ai-threat-landscape-scoping-and-the-red-team-lab/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-02-prompt-injection-and-jailbreaking/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-02-prompt-injection-and-jailbreaking/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-03-automated-red-teaming-and-evaluation-in-ci/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-03-automated-red-teaming-and-evaluation-in-ci/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-04-data-and-model-attacks/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-04-data-and-model-attacks/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-05-rag-and-vector-store-attacks/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-05-rag-and-vector-store-attacks/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-06-agentic-and-mcp-attacks/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-06-agentic-and-mcp-attacks/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-07-ai-supply-chain-and-infrastructure/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-07-ai-supply-chain-and-infrastructure/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-2/week-08-reporting-and-capstone-engagement/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-2/week-08-reporting-and-capstone-engagement/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/gate/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/gate/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/resources/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/resources/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-01-governance-fundamentals-inventory-and-risk-tiering/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-01-governance-fundamentals-inventory-and-risk-tiering/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-02-global-regulation-and-the-eu-ai-act/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-02-global-regulation-and-the-eu-ai-act/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-03-frameworks-and-standards/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-03-frameworks-and-standards/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-04-regional-regulation-gcc-and-india/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-04-regional-regulation-gcc-and-india/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-05-policy-stack-control-objectives-and-the-risk-register/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-05-policy-stack-control-objectives-and-the-risk-register/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-06-third-party-and-vendor-ai-risk/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-06-third-party-and-vendor-ai-risk/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-07-audit-assurance-and-monitoring/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-07-audit-assurance-and-monitoring/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-3/week-08-capstone-a-governance-programme-for-a-regulated-enterprise/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-3/week-08-capstone-a-governance-programme-for-a-regulated-enterprise/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/gate/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/gate/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/resources/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/resources/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-01-secure-ai-reference-architectures-and-threat-modelling/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-01-secure-ai-reference-architectures-and-threat-modelling/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-02-securing-data-and-rag/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-02-securing-data-and-rag/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-03-securing-models-and-the-ai-supply-chain/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-03-securing-models-and-the-ai-supply-chain/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-04-guardrails-runtime-protection-and-vendor-evaluation/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-04-guardrails-runtime-protection-and-vendor-evaluation/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-05-agent-and-mcp-security-architecture/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-05-agent-and-mcp-security-architecture/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-06-detection-monitoring-and-incident-response-for-ai/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-06-detection-monitoring-and-incident-response-for-ai/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-07-enterprise-architecture-and-the-business-case/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-07-enterprise-architecture-and-the-business-case/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
     <url>
-         <loc>https://nachi065.github.io/AI-Security-Bootcamp/volume-4/week-08-capstone-and-design-authority-defence/</loc>
+         <loc>https://nachi065.github.io/AI-Security-Architect-Bootcamp/volume-4/week-08-capstone-and-design-authority-defence/</loc>
          <lastmod>2026-10-05</lastmod>
     </url>
 </urlset>
