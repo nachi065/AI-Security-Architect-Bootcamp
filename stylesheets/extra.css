@@ -27,3 +27,7 @@
 .study-progress .row { font-size: 0.8rem; display: flex; justify-content: space-between; }
 .study-progress .actions { margin-top: 0.8rem; display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
 .study-progress a.continue { font-weight: 600; }
+
+/* Disclaimer and privacy notice in the footer */
+.md-copyright { width: auto; }
+.md-copyright .site-notice { display: block; max-width: 48rem; line-height: 1.5; }
